@@ -10,9 +10,9 @@ const app = express();
 const PORT = 3000;
 
 const dbConfig = {
-  host: 'localhost',
-  user: 'bazauser',
-  password: 'zaq1@WSX',
+  host: 'autorack.proxy.rlwy.net:39483',
+  user: 'root',
+  password: 'BYDMXGiBuIgLljyJJTTDwYAPKipYMXYI',
   database: 'myapp',
 };
 
