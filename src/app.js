@@ -11,7 +11,7 @@ const PORT = 3000;
 
 const dbConfig = {
   host: 'autorack.proxy.rlwy.net',
-  port: '39483',
+  port: '3306',
   user: 'root',
   password: 'BYDMXGiBuIgLljyJJTTDwYAPKipYMXYI',
   database: 'myapp',
